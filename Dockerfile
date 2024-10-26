@@ -1,2 +1,2 @@
 FROM nginx:latest
-CMD echo "Hello World!"
+CMD echo "Hello World From REMOTE Github!"
